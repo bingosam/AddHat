@@ -16,6 +16,10 @@ Detect the face in the picture and put on the hat.
 
 ![right](data/images/right.jpg)  ![right_output](data/result/right.jpg)
 
+# Thanks
+
+[LiuXiaolong19920720/Add-Christmas-Hat](https://github.com/LiuXiaolong19920720/Add-Christmas-Hat)
+
 # LICENSE
 
 See [LICENSE](LICENSE)
